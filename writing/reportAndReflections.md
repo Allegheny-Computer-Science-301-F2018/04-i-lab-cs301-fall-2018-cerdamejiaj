@@ -104,7 +104,7 @@ get this vaccine and it can save their lives and reduce the chances of getting H
 
 
 
-Question 10.
+# Question 10.
 
 During las week lab talk it was interesting learning about two different perspective
 of data analytics (Medical and Economic analyze). When it comes to Medical data
