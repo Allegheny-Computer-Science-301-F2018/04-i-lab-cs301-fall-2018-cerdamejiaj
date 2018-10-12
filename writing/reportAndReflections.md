@@ -13,7 +13,7 @@ that shows the number of cases of autism from 1987 to 2007.
 
 
 
-#Question 7.
+# Question 7.
 
 I used data exploration to determine if diseases such as Polio have enough data
 to see the effects of the vaccines created to this disease. Polio is an incurable
@@ -36,12 +36,12 @@ the number of deaths increased between 1950 and 1953. After the vaccine those th
 
 
 
-##Sources
+## Sources
 * [Polio Cases, Deaths, and Vaccination Rates](https://vaccines.procon.org/view.additional-resource.php?resourceID=005964)
 
 
 
-#Question 8.
+# Question 8.
 
 The Research Paper by Dr. Andrew Wakefield linking combined vaccine to the cause
 of Autism damage the public medicine damaged the public medicine image and it fueled
@@ -73,7 +73,7 @@ I think that once a person has strong beliefs about something, no matter how man
 times you disprove it, they will still believe in it.  
 
 
-#Question 9.
+# Question 9.
 
 Outbreaks of serious ailments in diverse communities all over the world is a
 serious ongoing problem, especially in developing countries. Thanks to the
